@@ -4,8 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "tv": "node src/scripts/sepTv.js",
+    "series": "node src/scripts/sepSeries.js",
+    "movies": "node src/scripts/sepMovies.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "listr": "^0.14.3",
+    "node-fetch": "^3.3.1"
+  }
 }
