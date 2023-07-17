@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-/n#EXTINF:-1 tvg-name="S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tIlhM0n6qvjCXDSfI0AudwXhn6.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito",S01E03
-http://bdta.pro:80/series/85227073/480326Hn00/182412.mp4
-#EXTINF:-1 tvg-name="S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29aLU81HimEXq7NkYVhXR6K8b7o.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito",S01E02
-http://bdta.pro:80/series/85227073/480326Hn00/182411.mp4
-#EXTINF:-1 tvg-name="S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gm2rsgFXP9upClA9n8bKf6bcCIV.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito",S01E01
-http://bdta.pro:80/series/85227073/480326Hn00/182410.mp4
