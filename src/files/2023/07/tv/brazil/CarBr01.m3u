@@ -1,196 +1,314 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="CopadoBrasil.br" tvg-name="COPA DO BRASIL 01" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="COPA DO BRASIL PPV",COPA DO BRASIL 01
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86387
-#EXTINF:-1 tvg-id="CopadoBrasil.br" tvg-name="COPA DO BRASIL 02" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="COPA DO BRASIL PPV",COPA DO BRASIL 02
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86388
-#EXTINF:-1 tvg-id="CopadoBrasil.br" tvg-name="COPA DO BRASIL 03" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="COPA DO BRASIL PPV",COPA DO BRASIL 03
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86389
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 04" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="COPA DO BRASIL PPV",COPA DO BRASIL 04
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86390
-#EXTINF:-1 tvg-id="CopadoBrasil.br" tvg-name="COPA DO BRASIL 05" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="COPA DO BRASIL PPV",COPA DO BRASIL 05
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86391
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 06" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="COPA DO BRASIL PPV",COPA DO BRASIL 06
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86392
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 07" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="COPA DO BRASIL PPV",COPA DO BRASIL 07
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86393
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/464
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="DOCUMENTARIOS",DISCOVERY H&H
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/465
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imgur.com/5db7nmT.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76670
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76671
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO" tvg-logo="https://imgur.com/tYWcfMx.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/467
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD" tvg-logo="https://imgur.com/w37PObs.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76672
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY" tvg-logo="https://imgur.com/qOaMR06.png" group-title="DOCUMENTARIOS",INVESTIGAÇAO DISCOVERY
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/501
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="FILMES E SERIES",A&E
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/444
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="FILMES E SERIES",AMC
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/445
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="FILMES E SERIES",AXN
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/447
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="FILMES E SERIES",CANAL SONY
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/457
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="FILMES E SERIES",CINEMAX
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/460
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="FILMES E SERIES",FX
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/486
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="FILMES E SERIES",MEGAPIX
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/507
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="FILMES E SERIES",PARAMOUNT
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/519
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/O9w4VCR.png" group-title="FILMES E SERIES",STAR CHANNEL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/481
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/547
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="FILMES E SERIES",SYFY
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/548
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/Mqc0BOR.png" group-title="FILMES E SERIES",TNT NOVELAS
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/549
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="FILMES E SERIES",TCM
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/550
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="FILMES E SERIES",TNT
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/559
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/139b1zs.png" group-title="FILMES E SERIES",TNT SERIES
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/560
-#EXTINF:-1 tvg-id="" tvg-name="TV CHANNEL NETWORK" tvg-logo="https://i.imgur.com/JmffSgH.png" group-title="FILMES E SERIES",TV CHANNEL NETWORK
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/60252
-#EXTINF:-1 tvg-id="" tvg-name="TV SERIES" tvg-logo="https://i.imgur.com/S8LyZ3W.png" group-title="FILMES E SERIES",TV SERIES
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/60180
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/585
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-logo="https://i.imgur.com/M6YFOLU.png" group-title="FILMES E SERIES",WARNER CHANNEL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/581
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="FILMES E SERIES",SPACE
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/543
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL" tvg-logo="https://i.imgur.com/ToaD0MQ.png" group-title="FILMES E SERIES",CINECANAL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/482
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://imgur.com/GXE4jMU.png" group-title="ABERTOS",CANAL BRASIL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/455
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://imgur.com/nrjd43P.png" group-title="ABERTOS",FUTURA
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/485
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP" tvg-logo="https://i.imgur.com/UQDAyDd.png" group-title="ABERTOS",TV GAZETA SP
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/333
-#EXTINF:-1 tvg-id="" tvg-name="HELLO TV" tvg-logo="https://i.imgur.com/3ycKJ3h.png" group-title="ABERTOS",HELLO TV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/63867
-#EXTINF:-1 tvg-id="" tvg-name="INSPIRE TV" tvg-logo="https://i.imgur.com/EpegljX.png" group-title="ABERTOS",INSPIRE TV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/63866
-#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="http://ccdnblck.xyz:80/images/05ebe029feb170745762c5c605493d57.png" group-title="ABERTOS",ISTV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/31746
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="REDE BRASIL" tvg-logo="https://imgur.com/AIhg0HN.png" group-title="ABERTOS",REDE BRASIL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/536
-#EXTINF:-1 tvg-id="" tvg-name="REDE MOSAICO" tvg-logo="https://i.imgur.com/5ky0Pb1.png" group-title="ABERTOS",REDE MOSAICO
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/63865
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://imgur.com/YNn2B3g.png" group-title="ABERTOS",REDE TV FHD
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/869
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV" tvg-logo="https://imgur.com/YNn2B3g.png" group-title="ABERTOS",REDE TV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/69
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://imgur.com/66hPRpp.png" group-title="ABERTOS",TV BRASIL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/121
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA" tvg-logo="https://imgur.com/sqJ7OzU.png" group-title="ABERTOS",TV CULTURA
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/568
-#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CÂMARA" tvg-logo="https://imgur.com/DWgHAKk.png" group-title="ABERTOS",TV CÂMARA
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/566
-#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA" tvg-logo="https://imgur.com/vD9262W.png" group-title="ABERTOS",TV ESCOLA
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/589
-#EXTINF:-1 tvg-id="" tvg-name="TVR VARIEDADES" tvg-logo="https://i.imgur.com/3w7YS9T.png" group-title="ABERTOS",TVR VARIEDADES
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/71138
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO NORDESTE" tvg-logo="https://i.imgur.com/bXs3jUP.png" group-title="ABERTOS",TV DIARIO NORDESTE
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/82856
-#EXTINF:-1 tvg-id="" tvg-name="TCM MOSSORÓ" tvg-logo="https://i.imgur.com/82lAY7d.png" group-title="ABERTOS",TCM MOSSORÓ
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88974
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="ABERTOS",BAND SP
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/450
-#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="ABERTOS",BAND RS
+#EXTM3U
+#EXTINF:-1 tvg-id="GloboPortoAlegre" tvg-name="GLOBO RBS" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="Canais",GLOBO RBS PORTO ALEGRE
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/532
+#EXTINF:-1 tvg-id="NSCTV" tvg-name="GLOBO FLORIPA" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="Canais",GLOBO NSC TV FLORIPA
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/725
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul" tvg-name="BAND RS" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="Canais",BAND RS
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/322
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 FM ( RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",ANTENA 1 FM ( RADIOS)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/177
-#EXTINF:-1 tvg-id="" tvg-name="CIDADE FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",CIDADE FM (RADIOS)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/190
-#EXTINF:-1 tvg-id="" tvg-name="GAUCHA ZH (Radios)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GAUCHA ZH (Radios)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/180
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GAZETA FM (RADIOS)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/188
-#EXTINF:-1 tvg-id="" tvg-name="GERAÇÃO FUNK FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GERAÇÃO FUNK FM (RADIOS)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/191
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAM SP (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",JOVEM PAM SP (RADIOS)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/176
-#EXTINF:-1 tvg-id="" tvg-name="MIX FM SP (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",MIX FM SP (RADIOS)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/183
-#EXTINF:-1 tvg-id="" tvg-name="RADIO EVANGELIZAR FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",RADIO EVANGELIZAR FM
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/31743
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SERTANEJA FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",RADIO SERTANEJA FM (RADIOS)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/186
-#EXTINF:-1 tvg-id="" tvg-name="SAMBA E PAGODE FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",SAMBA E PAGODE FM (RADIOS)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/193
-#EXTINF:-1 tvg-id="" tvg-name="TOP 40 FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",TOP 40 FM (RADIOS)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/194
-#EXTINF:-1 tvg-id="" tvg-name="RADIO DUMONT FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",RADIO DUMONT FM
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/80123
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SANTO ANDRE FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",RADIO SANTO ANDRE FM
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/80144
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Cultura 103.3 FM São Paulo" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio Cultura 103.3 FM São Paulo
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/80145
-#EXTINF:-1 tvg-id="" tvg-name="Rádio FM O Dia FM 100.5 Rio de Janeiro" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio FM O Dia FM 100.5 Rio de Janeiro
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/80146
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Litoral 94.5 FM Cabo Frio" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio Litoral 94.5 FM Cabo Frio
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/80148
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Positividade 104.5 FM Rio de Janeiro" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio Positividade 104.5 FM Rio de Janeiro
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/80150
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Antena 1 103.7 FM Rio De Janeiro" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio Antena 1 103.7 FM Rio De Janeiro
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/80154
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS" tvg-logo="https://imgur.com/3inGYNL.png" group-title="VARIEDADES",BIS
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/453
-#EXTINF:-1 tvg-id="" tvg-name="CHEFE TV" tvg-logo="https://imgur.com/4tXvrh6.png" group-title="VARIEDADES",CHEFE TV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/161
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="https://imgur.com/VFUqLY2.png" group-title="VARIEDADES",COMEDY CENTRAL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/462
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta !" tvg-logo="https://imgur.com/vRfOC9Z.png" group-title="VARIEDADES",Curta !
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/463
-#EXTINF:-1 tvg-id="E.br" tvg-name="E!" tvg-logo="http://ccdnblck.xyz:80/images/9c27309f718dd9996942b9c34e65016c.png" group-title="VARIEDADES",E!
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/471
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ART" tvg-logo="https://imgur.com/qXuboaZ.png" group-title="VARIEDADES",FILM & ART
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/478
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK" tvg-logo="https://imgur.com/u6ilW0S.png" group-title="VARIEDADES",FOOD NETWORK
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/480
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT" tvg-logo="https://imgur.com/q7F7LPD.png" group-title="VARIEDADES",GNT
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/494
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME" tvg-logo="https://imgur.com/89mH5L2.png" group-title="VARIEDADES",LIFETIME
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/503
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV" tvg-logo="https://imgur.com/WZhuIdj.png" group-title="VARIEDADES",MTV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/508
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="VARIEDADES",MULTISHOW
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/509
-#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL" tvg-logo="https://imgur.com/cuHirvC.png" group-title="VARIEDADES",MUSIC BOX BRASIL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/510
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF" tvg-logo="https://imgur.com/GFgqNpF.png" group-title="ESPORTES",OFF
+#EXTINF:-1 tvg-id="sbtrs" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="Canais",SBT RS
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/347
+#EXTINF:-1 tvg-id="Recordrs" tvg-name="RECORD TV RS" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="Canais",RECORD TV RS
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76668
+#EXTINF:-1 tvg-id="Redetv" tvg-name="REDE TV" tvg-logo="https://imgur.com/YNn2B3g.png" group-title="Canais",REDE TV
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/69
+#EXTINF:-1 tvg-id="Bandsportshd" tvg-name="BAND SPORTS " tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="Canais",BAND SPORTS 
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/452
+#EXTINF:-1 tvg-id="Sportv1" tvg-name="SPORTV 1" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="Canais",SPORTV 1
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/544
+#EXTINF:-1 tvg-id="Sportv2" tvg-name="SPORTV 2" tvg-logo="https://i.imgur.com/0sBb7aJ.png" group-title="Canais",SPORTV 2
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/545
+#EXTINF:-1 tvg-id="Sportv3" tvg-name="SPORTV 3" tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="Canais",SPORTV 3
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/546
+#EXTINF:-1 tvg-id="Espnbrasil" tvg-name="ESPN" tvg-logo="http://ccdnblck.xyz:80/images/8453b8a9c642d058df65283132b0464c.png" group-title="Canais",ESPN
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/477
+#EXTINF:-1 tvg-id="ESPNInternational" tvg-name="ESPN 2" tvg-logo="http://ccdnblck.xyz:80/images/d0ce8c3a6f4897955f710461fc61deba.png" group-title="Canais",ESPN 2
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/475
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN 3" tvg-logo="http://ccdnblck.xyz:80/images/7ffcedf0b67b7cbebf6a51420a99dc6d.png" group-title="Canais",ESPN 3
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/476
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/XWIuuFK.png" group-title="Canais",ESPN 4
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/89167
+#EXTINF:-1 tvg-id="Espnextra" tvg-name="ESPN EXTRA" tvg-logo="https://imgur.com/xMfxpFk.png" group-title="Canais",ESPN EXTRA
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76661
+#EXTINF:-1 tvg-id="Foxsports2" tvg-name="FOX SPORTS 2" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais",FOX SPORTS 2
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/484
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="https://imgur.com/GFgqNpF.png" group-title="Canais",OFF
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/518
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUT TV" tvg-logo="http://ccdnblck.xyz:80/images/e73da87d2731d1b8d44a215f9c34d2c1.png" group-title="VARIEDADES",TRUT TV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/562
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA" tvg-logo="http://ccdnblck.xyz:80/images/82aa50639d663c39341a5d56bc254c6c.png" group-title="VARIEDADES",VIVA
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/580
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV" tvg-logo="https://imgur.com/lRhTz6m.png" group-title="VARIEDADES",WOOHOO TV
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO TV" tvg-logo="https://imgur.com/lRhTz6m.png" group-title="Canais",WOOHOO TV
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/582
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MODO VIAGEM" tvg-logo="https://i.imgur.com/AOlgaoA.png" group-title="VARIEDADES",MODO VIAGEM
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86002
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/FeRf5EY.png" group-title="VARIEDADES",MTV LIVE
+#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://imgur.com/qqxY8co.png" group-title="Canais",Cartoon Network
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/459
+#EXTINF:-1 tvg-id="Discoverykids" tvg-name="Discovery Kids" tvg-logo="https://imgur.com/Lp56sC5.png" group-title="Canais",Discovery Kids
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/466
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://imgur.com/U1XnvRq.png" group-title="Canais",Nickelodeon
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/517
+#EXTINF:-1 tvg-id="Disneychannel" tvg-name="DISC. CHANNEL" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="Canais",DISC. CHANNEL
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/464
+#EXTINF:-1 tvg-id="Discturbohd" tvg-name="DISC. TURBO" tvg-logo="https://imgur.com/tYWcfMx.png" group-title="Canais",DISC. TURBO
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/467
+#EXTINF:-1 tvg-id="Homehealth" tvg-name="DISC. H&H" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="Canais",DISC. H&H
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/465
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="DISC. SCIENCE" tvg-logo="https://imgur.com/5db7nmT.png" group-title="Canais",DISC. SCIENCE
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76670
+#EXTINF:-1 tvg-id="Hdtheater" tvg-name="DISC. THEATER" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="Canais",DISC. THEATER
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76671
+#EXTINF:-1 tvg-id="Discoveryworldhd" tvg-name="DISC. WORLD" tvg-logo="https://imgur.com/w37PObs.png" group-title="Canais",DISC. WORLD
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76672
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid" tvg-name="INVESTIGAÇAO DISCOVERY" tvg-logo="https://imgur.com/qOaMR06.png" group-title="Canais",INVESTIGAÇAO DISCOVERY
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/501
+#EXTINF:-1 tvg-id="Animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Canais",ANIMAL PLANET
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/446
+#EXTINF:-1 tvg-id="Historychannel" tvg-name="HISTORY" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="Canais",HISTORY
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/584
+#EXTINF:-1 tvg-id="H2" tvg-name="HISTORY 2" tvg-logo="https://imgur.com/8oMEs6u.png" group-title="Canais",HISTORY 2
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/500
+#EXTINF:-1 tvg-id="Nationalgeographic" tvg-name="NATGEO" tvg-logo="https://imgur.com/acAruWG.png" group-title="Canais",NATGEO
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/514
+#EXTINF:-1 tvg-id="Comedycentral" tvg-name="COMEDY CENTRAL" tvg-logo="https://imgur.com/VFUqLY2.png" group-title="Canais",COMEDY CENTRAL
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/462
+#EXTINF:-1 tvg-id="Mtv" tvg-name="MTV" tvg-logo="https://imgur.com/WZhuIdj.png" group-title="Canais",MTV
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/508
+#EXTINF:-1 tvg-id="Mtv" tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/FeRf5EY.png" group-title="Canais",MTV LIVE
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/197
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://imgur.com/Xdl0FU1.png" group-title="TELECINE",TELECINE ACTION
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="Canais",MULTISHOW
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/509
+#EXTINF:-1 tvg-id="Sony" tvg-name="SONY" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="Canais",SONY
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/457
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="Canais",CINEMAX
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/460
+#EXTINF:-1 tvg-id="Fx" tvg-name="FX" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="Canais",FX
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/486
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="Canais",MEGAPIX
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/507
+#EXTINF:-1 tvg-id="Paramounthd" tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="Canais",PARAMOUNT
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/519
+#EXTINF:-1 tvg-id="Fox" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/O9w4VCR.png" group-title="Canais",STAR CHANNEL
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/481
+#EXTINF:-1 tvg-id="Studiouniversal" tvg-name="UNIVERSAL" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="Canais",UNIVERSAL
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/547
+#EXTINF:-1 tvg-id="Tnt" tvg-name="TNT" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="Canais",TNT
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/559
+#EXTINF:-1 tvg-id="TNTSerie" tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/139b1zs.png" group-title="Canais",TNT SERIES
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/560
+#EXTINF:-1 tvg-id="Warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://i.imgur.com/M6YFOLU.png" group-title="Canais",WARNER CHANNEL
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/581
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="Canais",SPACE
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/543
+#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" tvg-logo="https://imgur.com/S37uvno.png" group-title="Canais",TLC
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/558
+#EXTINF:-1 tvg-id="" tvg-name="CINE SESSÃO DA TARDE" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="Canais",CINE SESSÃO DA TARDE
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88966
+#EXTINF:-1 tvg-id="" tvg-name="CINE SUCESSOS" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="Canais",CINE SUCESSOS
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88964
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="Canais",CINE DISNEY
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88963
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="Canais",CINE MARVEL
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88967
+#EXTINF:-1 tvg-id="Tcaction" tvg-name="TELECINE ACTION" tvg-logo="https://imgur.com/Xdl0FU1.png" group-title="Canais",TELECINE ACTION
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/551
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://imgur.com/UI5Z3cf.png" group-title="TELECINE",TELECINE CULT
+#EXTINF:-1 tvg-id="Tccult" tvg-name="TELECINE CULT" tvg-logo="https://imgur.com/UI5Z3cf.png" group-title="Canais",TELECINE CULT
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/552
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="https://imgur.com/9uzg3hN.png" group-title="TELECINE",TELECINE FUN
+#EXTINF:-1 tvg-id="Tcfun" tvg-name="TELECINE FUN" tvg-logo="https://imgur.com/9uzg3hN.png" group-title="Canais",TELECINE FUN
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/553
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="https://imgur.com/uLUN3d9.png" group-title="TELECINE",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Tcpipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://imgur.com/uLUN3d9.png" group-title="Canais",TELECINE PIPOCA
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/554
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/VjdttBW.png" group-title="TELECINE",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Tcpremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/VjdttBW.png" group-title="Canais",TELECINE PREMIUM
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/555
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="https://imgur.com/f5TPZe4.png" group-title="TELECINE",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Tctouch" tvg-name="TELECINE TOUCH" tvg-logo="https://imgur.com/f5TPZe4.png" group-title="Canais",TELECINE TOUCH
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/556
+#EXTINF:-1 tvg-id="Premiere1" tvg-name="PREMIERE 1" tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png" group-title="PPV",PREMIERE 1
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/531
+#EXTINF:-1 tvg-id="Premiere1B" tvg-name="PREMIERE 1B" tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png" group-title="PPV",PREMIERE 1B
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88562
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PPV",PREMIERE 2
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/523
+#EXTINF:-1 tvg-id="Premiere2B" tvg-name="PREMIERE 2B" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PPV",PREMIERE 2B
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88566
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="PREMIERE 3" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PPV",PREMIERE 3
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/524
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PPV",PREMIERE 4
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/525
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PPV",PREMIERE 5
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/526
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PPV",PREMIERE 6
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/527
+#EXTINF:-1 tvg-id="Premiere7" tvg-name="PREMIERE 7" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PPV",PREMIERE 7
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/528
+#EXTINF:-1 tvg-id="CopadoBrasil" tvg-name="COPA DO BRASIL 01" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="PPV",COPA DO BRASIL 01
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86387
+#EXTINF:-1 tvg-id="CopadoBrasil" tvg-name="COPA DO BRASIL 02" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="PPV",COPA DO BRASIL 02
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86388
+#EXTINF:-1 tvg-id="CopadoBrasil" tvg-name="COPA DO BRASIL 03" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="PPV",COPA DO BRASIL 03
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86389
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 04" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="PPV",COPA DO BRASIL 04
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86390
+#EXTINF:-1 tvg-id="CopadoBrasil" tvg-name="COPA DO BRASIL 05" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="PPV",COPA DO BRASIL 05
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86391
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 06" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="PPV",COPA DO BRASIL 06
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86392
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 07" tvg-logo="https://i.imgur.com/3KOnqqY.png" group-title="PPV",COPA DO BRASIL 07
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86393
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN 01" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="PPV",DAZN 01
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/325
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN 02" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="PPV",DAZN 02
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/326
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN 03" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="PPV",DAZN 03
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/327
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN 04" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="PPV",DAZN 04
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/111
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 1)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNEL (JOGO 1)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/166
+#EXTINF:-1 tvg-id="0" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 2)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNEL (JOGO 2)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/167
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 3)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNEL (JOGO 3)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/168
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 4)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNEL (JOGO 4)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/169
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 5)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNEL (JOGO 5)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/170
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 6)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNEL (JOGO 6)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/171
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 7)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNEL (JOGO 7)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/172
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNELL (JOGO 8)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNELL (JOGO 8)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/173
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNELL (JOGO 9)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNELL (JOGO 9)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/174
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 10)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="PPV",ELEVEN SPORTS CHANNEL (JOGO 10)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/175
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="http://ccdnblck.xyz:80/images/204178a5bffc70ebbf263be6aafc3a4d.png" group-title="PPV",FLA TV
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/142
+#EXTINF:-1 tvg-id="" tvg-name="FURACAO TV (01)" tvg-logo="https://i.imgur.com/ZJjmoI9.png" group-title="PPV",FURACAO TV (01)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/200
+#EXTINF:-1 tvg-id="HBOMax" tvg-name="HBO MAX 01" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="PPV",HBO MAX 01
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/78527
+#EXTINF:-1 tvg-id="HBOMax" tvg-name="HBO MAX 02" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="PPV",HBO MAX 02
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/204
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="PPV",HBO MAX 03
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/205
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="PPV",HBO MAX 04
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/206
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="PPV",HBO MAX 05
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76696
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="PPV",HBO MAX 06
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76697
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 07" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="PPV",HBO MAX 07
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76698
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 08" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="PPV",HBO MAX 08
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76699
+#EXTINF:-1 tvg-id="HBOMax" tvg-name="HBO MAX 09" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="PPV",HBO MAX 09
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76700
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 1" tvg-logo="http://ccdnblck.xyz:80/images/1a8cc7e9e6570433bfc4c04caeb6b788.png" group-title="PPV",STAR + 1
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/113
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 2" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="PPV",STAR + 2
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/202
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 3" tvg-logo="http://ccdnblck.xyz:80/images/1a8cc7e9e6570433bfc4c04caeb6b788.png" group-title="PPV",STAR + 3
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/207
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 4" tvg-logo="http://ccdnblck.xyz:80/images/1a8cc7e9e6570433bfc4c04caeb6b788.png" group-title="PPV",STAR + 4
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/208
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS (JOGO 1)" tvg-logo="https://i.imgur.com/7D6PtjH.png" group-title="PPV",TV NSPORTS (JOGO 1)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/163
+#EXTINF:-1 tvg-id="NSports" tvg-name="TV NSPORTS (JOGO 2)" tvg-logo="https://i.imgur.com/7D6PtjH.png" group-title="PPV",TV NSPORTS (JOGO 2)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/164
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS (JOGO 3)" tvg-logo="https://i.imgur.com/7D6PtjH.png" group-title="PPV",TV NSPORTS (JOGO 3)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/165
+#EXTINF:-1 tvg-id="Primevideo" tvg-name="PRIME VIDEO 1" tvg-logo="https://i.imgur.com/xP7VHiM.png" group-title="PPV",PRIME VIDEO 1
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/83809
+#EXTINF:-1 tvg-id="Primevideo" tvg-name="PRIME VIDEO 2" tvg-logo="https://i.imgur.com/xP7VHiM.png" group-title="PPV",PRIME VIDEO 2
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/83810
+#EXTINF:-1 tvg-id="Primevideo" tvg-name="PRIME VIDEO 3" tvg-logo="https://i.imgur.com/xP7VHiM.png" group-title="PPV",PRIME VIDEO 3
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/83811
+#EXTINF:-1 tvg-id="Primevideo" tvg-name="PRIME VIDEO 4" tvg-logo="https://i.imgur.com/xP7VHiM.png" group-title="PPV",PRIME VIDEO 4
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/83812
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY+ 01" tvg-logo="https://i.imgur.com/T058mRj.png" group-title="PPV",GLOBOPLAY+ 01
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/85879
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY+ 02" tvg-logo="https://i.imgur.com/T058mRj.png" group-title="PPV",GLOBOPLAY+ 02
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/85880
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENTOS EXTRAS 01" tvg-logo="https://i.imgur.com/fbiTj3O.png" group-title="PPV",PPV EVENTOS EXTRAS 01
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86510
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENTOS EXTRAS 02" tvg-logo="https://i.imgur.com/fbiTj3O.png" group-title="PPV",PPV EVENTOS EXTRAS 02
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86511
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 01" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="PPV",BRASILEIRÃO SERIE D 01
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87468
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 02" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="PPV",BRASILEIRÃO SERIE D 02
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87469
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 03" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="PPV",BRASILEIRÃO SERIE D 03
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87470
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 04" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="PPV",BRASILEIRÃO SERIE D 04
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87471
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 05" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="PPV",BRASILEIRÃO SERIE D 05
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87472
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 06" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="PPV",BRASILEIRÃO SERIE D 06
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87473
+#EXTINF:-1 tvg-id="Paramountplus" tvg-name="LIBERTADORES (JOGO 1)" tvg-logo="https://i.imgur.com/tHvGJjp.png" group-title="PPV",LIBERTADORES (JOGO 1)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/117
+#EXTINF:-1 tvg-id="Paramountplus" tvg-name="LIBERTADORES (JOGO 2)" tvg-logo="https://i.imgur.com/tHvGJjp.png" group-title="PPV",LIBERTADORES (JOGO 2)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/118
+#EXTINF:-1 tvg-id="Paramountplus" tvg-name="LIBERTADORES (JOGO 3)" tvg-logo="https://i.imgur.com/tHvGJjp.png" group-title="PPV",LIBERTADORES (JOGO 3)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/120
+#EXTINF:-1 tvg-id="Paramountplus" tvg-name="LIBERTADORES (JOGO 4)" tvg-logo="https://i.imgur.com/tHvGJjp.png" group-title="PPV",LIBERTADORES (JOGO 4)
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/147
+#EXTINF:-1 tvg-id="Combatehd" tvg-name="COMBATE" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="PPV",COMBATE
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/461
+#EXTINF:-1 tvg-id="UFCFightPass" tvg-name="UFC Fight Pass" tvg-logo="https://i.imgur.com/op123mz.png" group-title="PPV",UFC Fight Pass
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/84481
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Action Sports" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Action Sports
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49018
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Anime
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49002
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Backcountry" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Backcountry
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49019
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Canal Summer" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Canal Summer
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49014
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Clássicos" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Clássicos
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48995
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comédia" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Comédia
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48989
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Drama
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48990
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Família" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Família
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48996
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Romance" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Romance
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48991
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Sucessos" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Sucessos
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48987
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Terror
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48993
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comédia" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Comédia
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49008
+#EXTINF:-1 tvg-id="" tvg-name="Pluto tv European League of Football" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto tv European League of Football
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49016
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Ação" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Filmes Ação
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48988
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Filmes Nacionais
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48994
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Suspense" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Filmes Suspense
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48992
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investigação" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Investigação
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49005
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Jovem Pan" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Jovem Pan
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49000
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Junior
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49010
+#EXTINF:-1 tvg-id="" tvg-name="Pluto tv Minecraftv" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto tv Minecraftv
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49015
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mistérios" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Mistérios
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49006
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Motorvision" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Motorvision
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49017
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Naruto" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Naruto
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49003
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Nosey Escândalos" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Nosey Escândalos
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49001
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Paramount+" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Paramount+
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48997
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Porta dos Fundos" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Porta dos Fundos
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49009
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retrô" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Retrô
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48999
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Shows por Stingray" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Shows por Stingray
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49011
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Sports" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Sports
+http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49013
 #EXTINF:-1 tvg-id="" tvg-name="SANDY & JUNIOR #FIQUE EM CASA" tvg-logo="https://i.imgur.com/9FEentT.png" group-title="SHOWS LIVE",SANDY & JUNIOR #FIQUE EM CASA
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/83820
 #EXTINF:-1 tvg-id="" tvg-name="ROBERTO CARLOS #FIQUE EM CASA" tvg-logo="https://i.imgur.com/9FEentT.png" group-title="SHOWS LIVE",ROBERTO CARLOS #FIQUE EM CASA
@@ -259,257 +377,3 @@ http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86913
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86914
 #EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 10" tvg-logo="https://i.imgur.com/lsWSwd9.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 10
 http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86915
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="ABERTOS",SBT SP
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/540
-#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="ABERTOS",SBT RS
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/347
-#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORD TV RS" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="ABERTOS",RECORD TV RS
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76668
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png" group-title="PREMIERE",PREMIERE CLUBES
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/531
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES*" tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png" group-title="PREMIERE",PREMIERE CLUBES*
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88562
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PREMIERE",PREMIERE 2
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/523
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2*" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PREMIERE",PREMIERE 2*
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88566
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PREMIERE",PREMIERE 3
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/524
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PREMIERE",PREMIERE 4
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/525
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PREMIERE",PREMIERE 5
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/526
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PREMIERE",PREMIERE 6
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/527
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="PREMIERE",PREMIERE 7
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/528
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Action Sports" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Action Sports
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49018
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Anime
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49002
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Backcountry" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Backcountry
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49019
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Canal Summer" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Canal Summer
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49014
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Clássicos" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Clássicos
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48995
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comédia" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Comédia
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48989
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Drama
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48990
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Família" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Família
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48996
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Romance" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Romance
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48991
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Sucessos" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Sucessos
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48987
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Cine Terror
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48993
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comédia" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Comédia
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49008
-#EXTINF:-1 tvg-id="" tvg-name="Pluto tv European League of Football" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto tv European League of Football
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49016
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Ação" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Filmes Ação
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48988
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Filmes Nacionais
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48994
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Suspense" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Filmes Suspense
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48992
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investigação" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Investigação
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49005
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Jovem Pan" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Jovem Pan
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49000
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Junior
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49010
-#EXTINF:-1 tvg-id="" tvg-name="Pluto tv Minecraftv" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto tv Minecraftv
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49015
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mistérios" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Mistérios
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49006
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Motorvision" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Motorvision
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49017
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Naruto" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Naruto
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49003
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Nosey Escândalos" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Nosey Escândalos
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49001
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Paramount+" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Paramount+
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48997
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Porta dos Fundos" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Porta dos Fundos
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49009
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retrô" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Retrô
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48999
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Shows por Stingray" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Shows por Stingray
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49011
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Sports" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Sports
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49013
-#EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-name="Pluto TV Séries" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Séries
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/48998
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Tokusato" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Tokusato
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49004
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv USA Kickboxing" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv USA Kickboxing
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49012
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Vevo Country" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Vevo Country
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49020
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Vevo Pop" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto Tv Vevo Pop
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vida Real" tvg-logo="http://ccdnblck.xyz:80/images/97c4cea371f0c7cc6b299cf46c9c3938.png" group-title="PLUTO TV",Pluto TV Vida Real
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/49007
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 01" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="ESPORTES PPV",DAZN 01
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/325
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 02" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="ESPORTES PPV",DAZN 02
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/326
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 03" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="ESPORTES PPV",DAZN 03
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/327
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 04" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="ESPORTES PPV",DAZN 04
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/111
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 1)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNEL (JOGO 1)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/166
-#EXTINF:-1 tvg-id="0" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 2)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNEL (JOGO 2)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/167
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 3)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNEL (JOGO 3)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/168
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 4)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNEL (JOGO 4)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/169
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 5)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNEL (JOGO 5)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/170
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 6)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNEL (JOGO 6)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/171
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 7)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNEL (JOGO 7)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/172
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNELL (JOGO 8)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNELL (JOGO 8)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/173
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNELL (JOGO 9)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNELL (JOGO 9)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/174
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CHANNEL (JOGO 10)" tvg-logo="https://i.imgur.com/jqFM3Dq.png" group-title="ESPORTES PPV",ELEVEN SPORTS CHANNEL (JOGO 10)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/175
-#EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="http://ccdnblck.xyz:80/images/204178a5bffc70ebbf263be6aafc3a4d.png" group-title="ESPORTES PPV",FLA TV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/142
-#EXTINF:-1 tvg-id="" tvg-name="FURACAO TV (01)" tvg-logo="https://i.imgur.com/ZJjmoI9.png" group-title="ESPORTES PPV",FURACAO TV (01)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/200
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 01" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="ESPORTES PPV",HBO MAX 01
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/78527
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 02" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="ESPORTES PPV",HBO MAX 02
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/204
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="ESPORTES PPV",HBO MAX 03
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/205
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="ESPORTES PPV",HBO MAX 04
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/206
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="ESPORTES PPV",HBO MAX 05
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76696
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="ESPORTES PPV",HBO MAX 06
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76697
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 07" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="ESPORTES PPV",HBO MAX 07
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76698
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 08" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="ESPORTES PPV",HBO MAX 08
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76699
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 09" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="ESPORTES PPV",HBO MAX 09
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76700
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 1" tvg-logo="http://ccdnblck.xyz:80/images/1a8cc7e9e6570433bfc4c04caeb6b788.png" group-title="ESPORTES PPV",STAR + 1
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/113
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 2" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="ESPORTES PPV",STAR + 2
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/202
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 3" tvg-logo="http://ccdnblck.xyz:80/images/1a8cc7e9e6570433bfc4c04caeb6b788.png" group-title="ESPORTES PPV",STAR + 3
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/207
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 4" tvg-logo="http://ccdnblck.xyz:80/images/1a8cc7e9e6570433bfc4c04caeb6b788.png" group-title="ESPORTES PPV",STAR + 4
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/208
-#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS (JOGO 1)" tvg-logo="https://i.imgur.com/7D6PtjH.png" group-title="ESPORTES PPV",TV NSPORTS (JOGO 1)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/163
-#EXTINF:-1 tvg-id="NSports.br" tvg-name="TV NSPORTS (JOGO 2)" tvg-logo="https://i.imgur.com/7D6PtjH.png" group-title="ESPORTES PPV",TV NSPORTS (JOGO 2)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/164
-#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS (JOGO 3)" tvg-logo="https://i.imgur.com/7D6PtjH.png" group-title="ESPORTES PPV",TV NSPORTS (JOGO 3)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/165
-#EXTINF:-1 tvg-id="Primevideo.br" tvg-name="PRIME VIDEO 1" tvg-logo="https://i.imgur.com/xP7VHiM.png" group-title="ESPORTES PPV",PRIME VIDEO 1
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/83809
-#EXTINF:-1 tvg-id="Primevideo.br" tvg-name="PRIME VIDEO 2" tvg-logo="https://i.imgur.com/xP7VHiM.png" group-title="ESPORTES PPV",PRIME VIDEO 2
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/83810
-#EXTINF:-1 tvg-id="Primevideo.br" tvg-name="PRIME VIDEO 3" tvg-logo="https://i.imgur.com/xP7VHiM.png" group-title="ESPORTES PPV",PRIME VIDEO 3
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/83811
-#EXTINF:-1 tvg-id="Primevideo.br" tvg-name="PRIME VIDEO 4" tvg-logo="https://i.imgur.com/xP7VHiM.png" group-title="ESPORTES PPV",PRIME VIDEO 4
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/83812
-#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY+ 01" tvg-logo="https://i.imgur.com/T058mRj.png" group-title="ESPORTES PPV",GLOBOPLAY+ 01
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/85879
-#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY+ 02" tvg-logo="https://i.imgur.com/T058mRj.png" group-title="ESPORTES PPV",GLOBOPLAY+ 02
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/85880
-#EXTINF:-1 tvg-id="" tvg-name="PPV EVENTOS EXTRAS 01" tvg-logo="https://i.imgur.com/fbiTj3O.png" group-title="ESPORTES PPV",PPV EVENTOS EXTRAS 01
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86510
-#EXTINF:-1 tvg-id="" tvg-name="PPV EVENTOS EXTRAS 02" tvg-logo="https://i.imgur.com/fbiTj3O.png" group-title="ESPORTES PPV",PPV EVENTOS EXTRAS 02
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/86511
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 01" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="ESPORTES PPV",BRASILEIRÃO SERIE D 01
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87468
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 02" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="ESPORTES PPV",BRASILEIRÃO SERIE D 02
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87469
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 03" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="ESPORTES PPV",BRASILEIRÃO SERIE D 03
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87470
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 04" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="ESPORTES PPV",BRASILEIRÃO SERIE D 04
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87471
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 05" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="ESPORTES PPV",BRASILEIRÃO SERIE D 05
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87472
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 06" tvg-logo="https://i.imgur.com/VIdzUYW.png" group-title="ESPORTES PPV",BRASILEIRÃO SERIE D 06
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/87473
-#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="LIBERTADORES (JOGO 1)" tvg-logo="https://i.imgur.com/tHvGJjp.png" group-title="ESPORTES PPV",LIBERTADORES (JOGO 1)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/117
-#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="LIBERTADORES (JOGO 2)" tvg-logo="https://i.imgur.com/tHvGJjp.png" group-title="ESPORTES PPV",LIBERTADORES (JOGO 2)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/118
-#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="LIBERTADORES (JOGO 3)" tvg-logo="https://i.imgur.com/tHvGJjp.png" group-title="ESPORTES PPV",LIBERTADORES (JOGO 3)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/120
-#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="LIBERTADORES (JOGO 4)" tvg-logo="https://i.imgur.com/tHvGJjp.png" group-title="ESPORTES PPV",LIBERTADORES (JOGO 4)
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/147
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS PORTO ALEGRE" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="ABERTOS",GLOBO RBS PORTO ALEGRE
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/532
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP " tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="ABERTOS",GLOBO SP 
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/492
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="ABERTOS",GLOBO NSC TV FLORIANOPOLIS
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/725
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS " tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="ESPORTES",BAND SPORTS 
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/452
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="ESPORTES",COMBATE
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/461
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN" tvg-logo="http://ccdnblck.xyz:80/images/8453b8a9c642d058df65283132b0464c.png" group-title="ESPORTES",ESPN
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/477
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2" tvg-logo="http://ccdnblck.xyz:80/images/d0ce8c3a6f4897955f710461fc61deba.png" group-title="ESPORTES",ESPN 2
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/475
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3" tvg-logo="http://ccdnblck.xyz:80/images/7ffcedf0b67b7cbebf6a51420a99dc6d.png" group-title="ESPORTES",ESPN 3
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/476
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/XWIuuFK.png" group-title="ESPORTES",ESPN 4
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/89167
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="https://imgur.com/xMfxpFk.png" group-title="ESPORTES",ESPN EXTRA
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/76661
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="ESPORTES",FOX SPORTS 2
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/484
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="ESPORTES",SPORTV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/544
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV*" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="ESPORTES",SPORTV*
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88557
-#EXTINF:-1 tvg-id="loading" tvg-name="RED BULL TV FHD" tvg-logo="http://ccdnblck.xyz:80/images/cbb0d12993ddedd29259fd23a18aa551.png" group-title="ESPORTES",RED BULL TV FHD
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/31744
-#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass" tvg-logo="https://i.imgur.com/op123mz.png" group-title="ESPORTES",UFC Fight Pass
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/84481
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="ESPORTES",SPORTV 3
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/546
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="ESPORTES",BAND SPORTS
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/5
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://i.imgur.com/0sBb7aJ.png" group-title="ESPORTES",SPORTV 2
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/545
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/446
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="DOCUMENTARIOS",ARTE 1
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/2956
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV" tvg-logo="https://i.imgur.com/mmJtU42.png" group-title="DOCUMENTARIOS",FISH TV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/479
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV" tvg-logo="https://imgur.com/oRZnRI0.png" group-title="DOCUMENTARIOS",HGTV
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/13
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="DOCUMENTARIOS",HISTORY
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/584
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2" tvg-logo="https://imgur.com/8oMEs6u.png" group-title="DOCUMENTARIOS",HISTORY 2
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/500
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO" tvg-logo="https://imgur.com/acAruWG.png" group-title="DOCUMENTARIOS",NATGEO
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/514
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC" tvg-logo="https://imgur.com/S37uvno.png" group-title="DOCUMENTARIOS",TLC
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/558
-#EXTINF:-1 tvg-id="" tvg-name="CINE SESSÃO DA TARDE" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CINE SKY & 24H",CINE SESSÃO DA TARDE
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88966
-#EXTINF:-1 tvg-id="" tvg-name="CINE SUCESSOS" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CINE SKY & 24H",CINE SUCESSOS
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88964
-#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CINE SKY & 24H",CINE DISNEY
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88963
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CINE SKY & 24H",CINE MARVEL
-http://joao-1-us.mainbkonline.shop:80/34586903482/480954489431/88967
